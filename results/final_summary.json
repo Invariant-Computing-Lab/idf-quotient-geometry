@@ -1,0 +1,11 @@
+{
+  "seed": 20260812,
+  "synthetic_identity_classes": 63,
+  "minimal_full_recovery_subset_in_benchmark": "gauge+degree+spectrum",
+  "minimal_full_recovery_n_groups": 3,
+  "raw_spectrum_scale_max_relative_change": 22003.254470710253,
+  "area_normalized_spectrum_scale_max_relative_error": 1.799825775391955e-16,
+  "ratio_spectrum_scale_max_relative_error": 2.7328566760003855e-16,
+  "critical_loglog_slope_lambda1_vs_aspect": -1.0000000000000002,
+  "critical_drop_factor": 9999.999999999998
+}

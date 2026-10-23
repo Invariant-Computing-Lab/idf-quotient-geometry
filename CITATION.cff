@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this synthetic research package, cite the accompanying manuscript."
+title: "Quotient-Invariant Reformulation of Intrinsic Bosonic Geometry: A Falsification-Driven Synthetic Study"
+type: article
+authors:
+  - family-names: "Yıldırım"
+    given-names: "Emirhan"
+    orcid: "https://orcid.org/0009-0002-5884-3660"
+date-released: 2026-08-12
+version: 1.0.0

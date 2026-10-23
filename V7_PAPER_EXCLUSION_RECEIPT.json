@@ -1,0 +1,16 @@
+{
+  "academic_publications_excluded_from_corrected_package": true,
+  "excluded_publication_related_paths": [
+    {
+      "path": "Main_Manuscript.md",
+      "sha256": "ed9355e322e19cf491d8c21fcc755b7d8a9732e7d8e137f22e75d2c33b52cbe6"
+    }
+  ],
+  "new_zip_copies_software_files_only": true,
+  "original_release_zip_filename": "idf-quotient-geometry__CP03R1__a01ed71f3dae.zip",
+  "original_release_zip_sha256": "52a64059bad4c3f6357ae7ef1155720b39249022acf74a01853104901eb5d8fd",
+  "public_release_approved": false,
+  "repository": "idf-quotient-geometry",
+  "schema": "invariant.v7.publication_exclusion.v1",
+  "source_archive_unchanged": true
+}

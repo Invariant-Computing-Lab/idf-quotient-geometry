@@ -1,0 +1,224 @@
+{
+  "excluded_counts": {
+    "NONSOFTWARE_DOC_OR_SECRET_FORMAT": 4
+  },
+  "files": [
+    {
+      "bytes": 282,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/.github/workflows/source-check.yml",
+      "path": ".github/workflows/source-check.yml",
+      "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+    },
+    {
+      "bytes": 394,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/CITATION.cff",
+      "path": "CITATION.cff",
+      "sha256": "fb80b4d551cc5a7d7370575d1de8da11f010d568586a7f71f652c0b49f40e12b"
+    },
+    {
+      "bytes": 508,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/DEPENDENCIES_AND_CHECKS.md",
+      "path": "DEPENDENCIES_AND_CHECKS.md",
+      "sha256": "55b7c5464933249aeeb4d189b747b0c53c6cb23252becc18d244d8bb6f5b2f89"
+    },
+    {
+      "bytes": 5784,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/FILE_MANIFEST.json",
+      "path": "FILE_MANIFEST.json",
+      "sha256": "0e96e85ddfba3c01a1902a6ed23143134a0545bac81227cfd6d0382d424e8746"
+    },
+    {
+      "bytes": 549,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/Highlights.txt",
+      "path": "Highlights.txt",
+      "sha256": "cab721305904be9b27fffb65be6d88cf33d2b0daa3cf71be87683260c099d1c5"
+    },
+    {
+      "bytes": 893,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/MANIFEST.txt",
+      "path": "MANIFEST.txt",
+      "sha256": "0afd3d02ebddb65606f1e1ec1752b8fe3cd3149f207f2b0b0ecb837c760a53f2"
+    },
+    {
+      "bytes": 29546,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/Main_Manuscript.md",
+      "path": "Main_Manuscript.md",
+      "sha256": "ed9355e322e19cf491d8c21fcc755b7d8a9732e7d8e137f22e75d2c33b52cbe6"
+    },
+    {
+      "bytes": 1830,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/README.md",
+      "path": "README.md",
+      "sha256": "8c897212fc700314ffcd7fe8a6b65ccd77b92c362628a01fb554950866e4307c"
+    },
+    {
+      "bytes": 215,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/RELEASE_NOTES.md",
+      "path": "RELEASE_NOTES.md",
+      "sha256": "ff1d760ca9965999eb8e3b81b9eab0c150f3ef3ff9482fa22ad6de93bc938326"
+    },
+    {
+      "bytes": 1038,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/RELEASE_SPEC.json",
+      "path": "RELEASE_SPEC.json",
+      "sha256": "3902055f20808693e5c347181a23be323d2a379463f77a37682f4d743f8c38c9"
+    },
+    {
+      "bytes": 2886,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/SHA256SUMS.txt",
+      "path": "SHA256SUMS.txt",
+      "sha256": "32c10cd78f537273a04696e71a93371c39097f8ffd3eb9b5d1b2fe2ca4ad7c45"
+    },
+    {
+      "bytes": 13046,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/Supplementary_Appendix.md",
+      "path": "Supplementary_Appendix.md",
+      "sha256": "c958f8d9060c283fe0ddab6ab37a579df42f9cf2f49b6154abc58baa3e997787"
+    },
+    {
+      "bytes": 3470,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/UPSTREAM_README.md",
+      "path": "UPSTREAM_README.md",
+      "sha256": "f7b59c5e170c976d71b6f02dc023c99eac069105549ce8fcfc04684b7f503817"
+    },
+    {
+      "bytes": 5102,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/checks/RESULT.json",
+      "path": "checks/RESULT.json",
+      "sha256": "3db2d83cf9e3b1b9b8fa485ae2cd085078104dc0748976d303f8f02b4906d6e9"
+    },
+    {
+      "bytes": 12624,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/code/final_reconstructibility_suite.py",
+      "path": "code/final_reconstructibility_suite.py",
+      "sha256": "177dd6a917118649b0fdc2aa480a10e042fed321c41c0a416d670ea20a454abd"
+    },
+    {
+      "bytes": 1056,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/code/run_all.py",
+      "path": "code/run_all.py",
+      "sha256": "e683498c6558cbdb0b61f8474e0830915dea52eec1eecf830ed245ea6439c7b3"
+    },
+    {
+      "bytes": 13330,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/code/transformation_and_quotient_suite.py",
+      "path": "code/transformation_and_quotient_suite.py",
+      "sha256": "7b928ae6186948135d156cd7051f44a2c12dc0f9e97392c9054b2693c1e8c5b1"
+    },
+    {
+      "bytes": 186,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/environment.txt",
+      "path": "environment.txt",
+      "sha256": "9cf6075a4375b07634e22d6727ce34717c3425ee82f4e0f24f487c3ee581c0d9"
+    },
+    {
+      "bytes": 52,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/requirements.txt",
+      "path": "requirements.txt",
+      "sha256": "c96199ef81ade15361474fd4c6479ea611eb85997230bef8b702a042ad8e62ba"
+    },
+    {
+      "bytes": 290,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/dense_moduli_recovery_results.csv",
+      "path": "results/dense_moduli_recovery_results.csv",
+      "sha256": "e7e703aa9135dc22aed9e4b14cd321e3251a2da07b6abad17c3ca72827e9c965"
+    },
+    {
+      "bytes": 110870,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/figures/fig1_fingerprint_recovery.png",
+      "path": "results/figures/fig1_fingerprint_recovery.png",
+      "sha256": "85559f36aafe3d5260bad47cfa12f0bdf51f7fe610c328ffc08f60aec2c846b6"
+    },
+    {
+      "bytes": 95183,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/figures/fig2_noise_robustness.png",
+      "path": "results/figures/fig2_noise_robustness.png",
+      "sha256": "83f7d79f296f6d95df5bbf976fa5a47424163d29e7a9d378ae4001c803ba4164"
+    },
+    {
+      "bytes": 97069,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/figures/fig3_critical_locus.png",
+      "path": "results/figures/fig3_critical_locus.png",
+      "sha256": "e7bd18596bb51bb82169bd106c807475b69140750810ff52254e80cc6796d27e"
+    },
+    {
+      "bytes": 100969,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/figures/fig4_dense_moduli_recovery.png",
+      "path": "results/figures/fig4_dense_moduli_recovery.png",
+      "sha256": "2003824398a7f5ebf426e3e7c955ce50c9428251d28be4d78eefc56bc7856a10"
+    },
+    {
+      "bytes": 433,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/final_summary.csv",
+      "path": "results/final_summary.csv",
+      "sha256": "2288912b5e236dbb7c4faceda30257222c7c22630fa28242ef9bb717b9323aee"
+    },
+    {
+      "bytes": 491,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/final_summary.json",
+      "path": "results/final_summary.json",
+      "sha256": "960299115cce836066d28defc92b068a3a88cfb7a9cf6b8d2fba93f8d29083b6"
+    },
+    {
+      "bytes": 285,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/fingerprint_collision_results.csv",
+      "path": "results/fingerprint_collision_results.csv",
+      "sha256": "53637322dd73ccef7ab18aa0bd4b33a223b0fdbcd4f65dd7d412b088c14bb490"
+    },
+    {
+      "bytes": 617,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/fingerprint_subset_results.csv",
+      "path": "results/fingerprint_subset_results.csv",
+      "sha256": "124be5df23f8002e515266b859a90ebb9299072fc5478b2b7ff76758cce9a7dc"
+    },
+    {
+      "bytes": 608,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/finite_resolution_collision_results.csv",
+      "path": "results/finite_resolution_collision_results.csv",
+      "sha256": "565a1ac1e5e6103d681f160dab012392702ef8c68f3812459a92dff6b84c37e3"
+    },
+    {
+      "bytes": 232,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/leave_one_invariant_out_results.csv",
+      "path": "results/leave_one_invariant_out_results.csv",
+      "sha256": "a96c16b8d34578eb09f9b8d33fbba44f34a5363a2ac2ec2a8e581fc63c8d78de"
+    },
+    {
+      "bytes": 865,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/spectral_noise_truncation_results.csv",
+      "path": "results/spectral_noise_truncation_results.csv",
+      "sha256": "832e3bc0566f3e7105b6ee81efba69d14389995281460ce93f4827c3051b0f54"
+    },
+    {
+      "bytes": 5930,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/synthetic_identity_classes.csv",
+      "path": "results/synthetic_identity_classes.csv",
+      "sha256": "7aaba6fb725e7f49be9ab3f5d0cc3a9e73670bdc89da583917c98beca44666dc"
+    },
+    {
+      "bytes": 2605,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/results/transformation_quotient_results.csv",
+      "path": "results/transformation_quotient_results.csv",
+      "sha256": "b32c9416b82ff79a675a6f9710058d4227643f4465f94150d6f9d32ff5c7d77c"
+    },
+    {
+      "bytes": 2366,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/run_checks.py",
+      "path": "run_checks.py",
+      "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+    },
+    {
+      "bytes": 4568,
+      "original_source_member": "Invariant_CP03R1/github/idf-quotient-geometry/run_log.txt",
+      "path": "run_log.txt",
+      "sha256": "d99afd28e45e83650092d44b1ec79f209ffea282803ba78275e36e43e7e186e5"
+    }
+  ],
+  "published_files": 35,
+  "repository": "github/idf-quotient-geometry",
+  "schema": "invariant.source_member_manifest.v1",
+  "scope": "source files + minimal repository metadata; no new training or independent experiment",
+  "selected_from_files": 39,
+  "source_archive": "CP03R1",
+  "source_archive_sha256": "9507b5a42e661ae7588ab69cb395597749f043c419ebd981a6c91051516a3209"
+}

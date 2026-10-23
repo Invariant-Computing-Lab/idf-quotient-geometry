@@ -1,0 +1,5 @@
+- Recasts a six-dimensional intrinsic bosonic geometry proposal as a quotient-invariant reconstruction problem.
+- Separates topological, gauge, algebraic-degree, normalized-spectral, removable, and critical-locus quantities.
+- Falsifies topology-only protection of curvature/area observables and raw spectral scale invariance.
+- Introduces deterministic fingerprint-collision and leave-one-invariant-out reconstructibility tests.
+- Achieves exact separation of 63 restricted synthetic classes only after normalized spectral information is included.

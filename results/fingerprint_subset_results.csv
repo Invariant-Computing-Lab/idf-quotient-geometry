@@ -1,0 +1,16 @@
+groups,n_groups,exact_recovery,unique
+degree,1,0.047619047619047616,3
+gauge,1,0.047619047619047616,3
+spectrum,1,0.1111111111111111,7
+topology,1,0.031746031746031744,2
+degree+spectrum,2,0.3333333333333333,21
+gauge+degree,2,0.14285714285714285,9
+gauge+spectrum,2,0.3333333333333333,21
+topology+degree,2,0.09523809523809523,6
+topology+gauge,2,0.09523809523809523,6
+topology+spectrum,2,0.1111111111111111,7
+gauge+degree+spectrum,3,1.0,63
+topology+degree+spectrum,3,0.3333333333333333,21
+topology+gauge+degree,3,0.2857142857142857,18
+topology+gauge+spectrum,3,0.3333333333333333,21
+topology+gauge+degree+spectrum,4,1.0,63

@@ -1,0 +1,5 @@
+dropped,kept,exact_recovery,unique
+topology,gauge+degree+spectrum,1.0,63
+gauge,topology+degree+spectrum,0.3333333333333333,21
+degree,topology+gauge+spectrum,0.3333333333333333,21
+spectrum,topology+gauge+degree,0.2857142857142857,18

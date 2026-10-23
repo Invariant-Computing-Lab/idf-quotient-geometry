@@ -1,0 +1,5 @@
+fingerprint,unique_fingerprints,n_classes,max_exact_recovery,collision_rate
+F0_topology,2,63,0.031746031746031744,0.9682539682539683
+F1_topology_gauge,6,63,0.09523809523809523,0.9047619047619048
+F2_plus_degree,18,63,0.2857142857142857,0.7142857142857143
+F3_plus_spectrum,63,63,1.0,0.0
